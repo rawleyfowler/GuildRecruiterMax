@@ -1,0 +1,8 @@
+## Interface: 100207
+## Version: 1.0.0
+## Title: Guild Recruiter Max
+## Notes: Attempts to recruit users to your guild, via whisper and guild invite.
+## Author: Rawley Fowler
+## SavedVariablesPerCharacter: LastUsedText
+
+GuildRecruiterMax.lua
